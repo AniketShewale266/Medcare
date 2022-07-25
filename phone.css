@@ -1,0 +1,103 @@
+/* Responsive Website Design */
+
+
+/* Navigation */
+.main-header{
+    flex-direction: column;
+}
+
+
+/* Home Section */
+
+header{
+    width: 100%;
+    height: 60vh;
+}
+main .right-sec{
+    display: none;
+}
+main .left-sec{
+   padding-left: 30px;
+}
+
+.left-sec h1{
+    font-size: 25px;
+}
+
+.left-sec button{
+    padding: 12px 23px;
+    text-align: center;
+    font-size: 10px;
+}
+
+/* Services Section */
+
+#services-container{
+    width: 100%;
+    height: 130vh;
+}
+
+#services{
+    flex-direction: column;
+}
+
+
+
+#aboutus-conatiner{
+    width: 100%;
+    height: 60vh;
+}
+
+#aboutus-conatiner main{
+    flex-direction: column;
+}
+#aboutus-conatiner .left-sec img{
+    width: 322px;
+    height: 180px;
+    display: block;
+    margin: auto;
+}
+
+#aboutus-conatiner .h-primary{
+    text-align: center;
+    font-size: 25px;
+}
+.right-sec1 h2{
+    font-size: 20px;
+    text-align: center;
+    text-transform: capitalize;
+    font-weight: lighter;
+    color: #242424;
+}
+.right-sec1 h1{
+    font-size: 35px;
+    text-align: center;
+    text-transform: capitalize;
+    font-weight: 700;
+}
+.right-sec1 p{
+    margin-bottom: 20px;
+    text-align: center;
+    
+}
+.right-sec1 button{
+    padding: 15px 18px;
+    text-align: center;
+    font-size: 14px;
+    font-weight: lighter;
+    color: white;
+    text-transform: uppercase;
+    border-radius: 10px;
+    border: 2px solid white;
+    cursor: pointer;
+    background-color: rgb(115, 115, 206);
+}
+
+/* Contact Section */
+#contactus-container{
+    width: 100%;
+    height: 60vh;
+}
+
+/* Footer */
+
