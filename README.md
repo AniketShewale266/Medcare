@@ -1,5 +1,4 @@
-# Medcare
-## Future ready talent project bt Aniket Shewale
+## Future ready talent project by Aniket Shewale
 
 Here i create a mental health care website name Medcare
 
